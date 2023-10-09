@@ -25,7 +25,7 @@ dic = {}
 for a in range(0,26):
         dic[arr[a][0]]=arr[a][2]
 
-
+#h
 
 #키 기준으로 오름차순 정렬
 key_Dic = sorted(dic.items(),key=lambda x : x[0])   #x[0]은 키 , x[1]은 값을 의미함
